@@ -1,4 +1,4 @@
- Stock_Price_Prediction using Regression Techniques
+ # Stock_Price_Prediction using Regression Techniques
  
 1)Data preprocessing: Cleaned the data by removing any missing or invalid data points, and normalize the data to a common scale.
 
